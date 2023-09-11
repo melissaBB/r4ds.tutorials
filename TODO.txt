@@ -1,36 +1,8 @@
 ## Priorities
 
-## Rajarshi
+Why does testing on Windows take 15 minutes, while testing on Mac takes < 3? Would be nice to fix this so that we could start testing on CRAN again.
 
-Logical Vectors: Done.
-
-## Pranav 
-
-02-data-visualization
-
-19-missing-values
-
-
-## Melissa
-
-Chapter 27 (iterations)
-
-## Zayan
-
-Chapter 23 arrow.
-
-## Srihith
-
-Chapter 11. 
-
-Chapter 12.
-
-
-## Anish
-
-tidycensus.tutorials 
-
-## Preceptor
+Would be nice to do at least some testing of knitting the tutorials on CRAN.
 
 Finish public project in logical vectors.
 

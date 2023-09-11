@@ -1,10 +1,12 @@
 # r4ds.tutorials (development version)
 
-* Moved prep_rstudio_settings() here from tutorial.helpers.
+# r4ds.tutorials 0.1.4
+
+* Initial CRAN release.
 
 * Switch to CRAN version of tutorial.helpers.
 
-* Move over lots of material from all.primer.tutorials
+* Move over lots of material from primer.tutorials
 
 # r4ds.tutorials 0.0.1
 

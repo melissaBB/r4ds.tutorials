@@ -23,5 +23,13 @@ inst/tutorials/*/*_files/
 
 !inst/tutorials/27-iteration/data/
 
+# For cache directories:
+
+inst/tutorials/*/tutorial_cache
+
+# The simple name of a file ignores that file wherever it might appear.
+
+.DS_Store
+
 
 

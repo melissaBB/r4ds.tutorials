@@ -4,20 +4,21 @@
 \name{r4ds.tutorials-package}
 \alias{r4ds.tutorials}
 \alias{r4ds.tutorials-package}
-\title{r4ds.tutorials: Tutorials for R for Data Science}
+\title{r4ds.tutorials: Tutorials for "R for Data Science"}
 \description{
-This package provides tutorials for R for Data Science by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund. In an ideal world, students would read the book and type in all the associated R commands themselves. Sadly, that often does not happen. These tutorials allow students to demonstrate (and their instructors to be sure) that all work has been completed. See the tutorial.helpers package for a background discussion of the tool and approach.
+When assigned "R for Data Science" (Wickham, Çetinkaya-Rundel, and Grolemund (2023, ISBN: 1492097402)), students should read the book and type in all the associated R commands themselves. Sadly, that never happens. These tutorials allow students to demonstrate (and their instructors to be sure) that all work has been completed. See Kane (2023) \url{https://ppbds.github.io/tutorial.helpers/articles/instructions.html} from the 'tutorial.helpers' package for a background discussion.
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://ppbds.github.io/r4ds.tutorials/}
-  \item Report bugs at \url{https://github.com/ppbds/r4ds.tutorials/issues}
+  \item \url{https://github.com/PPBDS/r4ds.tutorials}
+  \item Report bugs at \url{https://github.com/PPBDS/r4ds.tutorials/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: David Kane \email{dave.kane@gmail.com} (\href{https://orcid.org/0000-0002-6660-3934}{ORCID})
+\strong{Maintainer}: David Kane \email{dave.kane@gmail.com} (\href{https://orcid.org/0000-0002-6660-3934}{ORCID}) [copyright holder]
 
 }
 \keyword{internal}
